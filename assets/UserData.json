@@ -1,0 +1,18 @@
+[{
+    "id": "1",
+    "name": "Hallie H",
+    "barModel": "0",
+    "selected":"1",
+    "data": [{"trans_name" : "Cash" , "next_date" : "Next transfer july 2", "cost" : "$50", "interval" : "Weekly"},
+        {"trans_name" : "College" , "next_date" : "Next transfer july 2", "cost" : "$150", "interval" : "Weekly"},
+        {"trans_name" : "Retire" , "next_date" : "Next transfer july 2", "cost" : "$150", "interval" : "Weekly"}]
+},
+{
+    "id": "2",
+    "name": "Salil",
+    "barModel": "0",
+    "selected":"0",
+    "data": [{"trans_name" : "Cash" , "next_date" : "Next transfer july 10", "cost" : "$80", "interval" : "Weekly"},
+        {"trans_name" : "Travel" , "next_date" : "Next transfer july 2", "cost" : "$90", "interval" : "Weekly"},
+        {"trans_name" : "Retire" , "next_date" : "Next transfer july 2", "cost" : "$50", "interval" : "Weekly"}]
+}]
